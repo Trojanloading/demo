@@ -5,7 +5,7 @@
       <p v-if="show">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
         facilisis enim libero, at lacinia diam fermentum id. Pellentesque
-        habitant morbi tristique senectus et netus.....
+        habitant morbi tristique senectus et netus......
       </p>
     </transition>
   </div>
